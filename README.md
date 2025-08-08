@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kusal Ranasinghe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="kusalranasinghe" /> </p>
----
+
 - 🌱 I’m currently learning **C language**
 
 - 👨‍💻 I'm an Undergraduate at **University of Sri Jayewardenepura**
