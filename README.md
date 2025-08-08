@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kusal Ranasinghe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="kusalranasinghe" /> </p>
-
+---
 - 🌱 I’m currently learning **C language**
 
 - 👨‍💻 I'm an Undergraduate at **University of Sri Jayewardenepura**
@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kusal ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal ranasinghe" height="30" width="40" /></a>
+<a href="https://fb.com/kusal d ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusal d ranasinghe" height="30" width="40" /></a>
+<a href="https://instagram.com/kusal_muzic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kusal_muzic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
